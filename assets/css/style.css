@@ -354,3 +354,5 @@ button[type="submit"] {
     color: #fafafa;
     background-color: #e84610;
 }
+
+div#map {min-height: 360px;}
