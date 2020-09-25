@@ -42,7 +42,7 @@
 .text-color {
     color: #161515;
 }
-#am-color {
+.am-color {
     color: #161515;
     }
 /*------------------------Special Paddings/Margins/Text------------ (Coding from Code Institute Lesson - Putting It All Together | Mini Project - Very minor Asthetic adjustments)*/
@@ -52,6 +52,7 @@ h1, h2, h3, h4 {
 }
 .uppercase {
     text-transform: uppercase;
+    color: #161515;
 }
 
 .general-sub {
@@ -80,7 +81,7 @@ h1, h2, h3, h4 {
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
-    color: #fafafa;
+    color: #161515;
 }
 
 /*------------------------Heading------------ (Coding from Code Institute Lesson - Putting It All Together | Mini Project - Minor Asthetic Adjustments)*/
@@ -348,11 +349,12 @@ footer {
     margin: 0 auto;
     max-width: 70%;
 }
+ 
 button[type="submit"] {
     margin-top: 15px;
     margin-bottom: 20px;
     color: #fafafa;
     background-color: #e84610;
 }
-
+   
 div#map {min-height: 360px;}
