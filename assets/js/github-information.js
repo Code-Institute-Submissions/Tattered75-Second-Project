@@ -1,3 +1,4 @@
+/*---------------Coding from CodeInstitute Lesson-----------------*/
 function userInformationHTML(user) {
     return `
         <h2>${user.name}
